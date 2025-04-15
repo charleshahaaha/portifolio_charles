@@ -1,0 +1,23 @@
+body{
+    background-color: hsl(0, 100%, 50%);
+    width: 0%;
+    height: 0%;
+}
+div{
+
+    width: 50vh;
+    height: 50vh;
+
+    margin: 25vh 78.75vh;
+    padding: 10vh;
+    background-color: black;
+}
+
+div div{
+    width: 30vh;
+    height: 30vh;
+
+    background-color: brown;
+    margin: 0;
+    width: 0;
+}
